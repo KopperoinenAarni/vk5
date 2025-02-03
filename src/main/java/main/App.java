@@ -15,7 +15,7 @@ public class App {
         while (!exit) {
             System.out.println("1) Lisää kone");
             System.out.println("2) Listaa kaikki koneet");
-            System.out.println("0) Lopeta peli");
+            System.out.println("0) Lopeta ohjelma");
 
             if (sc.hasNext()) {
                 int i = 0;
